@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.categories {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+h5 {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.img {
+  width: 70px;
+}
+.blubtn {
+  background-color: #2874f0;
+  padding: 8px;
+}
+.topoffers {
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+.top1offers {
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.offers {
+  width: 150px;
+}
+.head1 {
+  text-align: center;
+}
+.hcolr {
+  text-align: center;
+  color: green;
+}
+.liclr {
+  text-align: center;
+  color: #808080;
+}
+.ser {
+  font-weight: 200px;
+  font-size: 25px;
+}
+#img2 {
+  width: 250px;
+  height: 350px;
+}
+.fev1 {
+  justify-content: center;
+  width: 1300px;
+  height: 280px;
+}
+.deals {
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+.dealsimg {
+  width: 160px;
+  height: 180px;
+}
+.fashion {
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+.fashionimg {
+  width: 160px;
+  height: 180px;
+}
+.imgrow1 {
+  display: flex;
+  justify-content: space-around;
+}
+.imgro1 {
+  width: 400px;
+}
+.imgrow2 {
+  display: flex;
+  justify-content: space-around;
+}
+.imgro2 {
+  width: 300px;
+}
+.liclo {
+  color: #808080;
+}
+.para1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.footer {
+  background-color: #182337;
+  list-style: none;
+  display: inline-block;
+}
+
+nav {
+  background-color: #2874f0;
+}
+nav ul {
+  display: flex;
+
+  width: 80vw;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+li a {
+  color: white;
+  text-decoration: none;
+}
+li a span {
+  color: yellow;
+  font-weight: 900px;
+}
+.logo {
+  width: 130px;
+}
+.logosection {
+  display: flex;
+  flex-direction: column;
+}
+.sear {
+  padding-right: 250px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.btnlogo {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.logomore {
+  color: white;
+  background-color: #2874f0;
+}
+.lio {
+  color: #808080;
+}
+footer {
+  background-color: #182337;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer ul {
+  list-style: none;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 90vw;
+  margin: auto;
+  padding: 40px 0px;
+}
+.lion {
+  width: 250px;
+  font-size: 14px;
+}
+footer ul li {
+  margin-bottom: 10px;
+}
